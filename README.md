@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Data Science with Pyhon
-- 🌱 I’m currently learning ... Data Science ,Core Pyhton
+- 🔭 I’m currently working on ...Data Science with Python
+- 🌱 I’m currently learning ... Data Science ,Core Python
 - 👯 I’m looking to collaborate on ...Core Python
 - 🤔 I’m looking for help with ...Java Programming and Software Development Engineering
 - 💬 Ask me about ...Anything
