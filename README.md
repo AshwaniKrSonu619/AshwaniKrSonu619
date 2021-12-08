@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am done.
-- ![alt text](https://{https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F45251201%2F119247834-e6e2b500-bb5a-11eb-96d9-7ea74199ae96.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode%2Fissues%2F124444&tbnid=cnb1FIerrY6sRM&vet=12ahUKEwiJ5bmfydP0AhVlzTgGHe0QBUwQMygoegUIARCOAg..i&docid=RO39_C88eRLuPM&w=1187&h=540&itg=1&q=github%20background%20image&ved=2ahUKEwiJ5bmfydP0AhVlzTgGHe0QBUwQMygoegUIARCOAg} “add your alt text”)
--->
+-
+--><img src=”aks.jpg” alt=”alt text” width=”200"/>
