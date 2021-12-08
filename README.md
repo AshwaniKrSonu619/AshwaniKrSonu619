@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Java Programming and Software Development Engineering
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...sonuashwanikumarsonu@gmail.com
--  @Instagram:https://www.instagram.com/iamashwani_sonu/?hl=en
+-  a href=”https://www.linkedin.com/in/ashwani-kumar-sonu-2a5288212/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am done.
