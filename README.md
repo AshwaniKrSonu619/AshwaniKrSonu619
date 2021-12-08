@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...Data Science with Python
 - 🌱 I’m currently learning ... Data Science ,Core Python
