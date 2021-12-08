@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...sonuashwanikumarsonu@gmail.com
 -   href=”https://www.linkedin.com/in/ashwani-kumar-sonu-2a5288212/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
--  a href=”https://www.instagram.com/iamashwani_sonu">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+-  a href=”https://www.instagram.com/iamashwani_sonu">(https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 -
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am done.
