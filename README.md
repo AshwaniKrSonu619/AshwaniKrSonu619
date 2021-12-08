@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am done.
 -
---><img src=”aks.jpg” alt=”alt text” width=”200"/>
+-“https://github.com/[OpAshwani]/[OpAshwani]/blob/[master]/assets/aks.jpg”
