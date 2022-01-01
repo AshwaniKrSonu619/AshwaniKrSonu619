@@ -9,9 +9,9 @@
 
 - **🌱 I’m currently learning -**Java ,Core PYTHON (Basic +Advanced)**
 
-- **👯 I’m looking to collaborate on **-Data Science ,Python
+- **👯 I’m looking to collaborate on Data Science ,Python
 
-- **🤝 I’m looking for help with -**Java ,Javascript,ReactJS ,Nodejs
+- **🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs
 
 - **👨‍💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)
 
