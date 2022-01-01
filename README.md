@@ -1,19 +1,44 @@
-### Here is What I'm Working On!👋
+<h1 align="center">Hi 👋, I'm Ashwani Kumar Sonu</h1>
+<h3 align="center">Computer Science & Engineering Student || The Avid Learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikrsonu619&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikrsonu619" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
+- 🔭 I’m currently working on [Data Science](https://github.com/AshwaniKrSonu619)
 
+- 🌱 I’m currently learning **Java ,Core PYTHON (Basic +Advanced)**
 
-- 🔭 I’m currently working on ...Data Science with Python
-- 🌱 I’m currently learning ... Data Science ,Core Python
-- 👯 I’m looking to collaborate on ...Core Python
-- 🤔 I’m looking for help with ...Java Programming and Software Development Engineering
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...sonuashwanikumarsonu@gmail.com
--   ”https://www.linkedin.com/in/ashwani-kumar-sonu-2a5288212/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
--   ”https://www.instagram.com/iamashwani_sonu/"> ![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
--   ”https://twitter.com/ashwanikrsonu"> ![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am done.
+- 👯 I’m looking to collaborate on [Data Science ,Python](https://github.com/AshwaniKrSonu619)
 
+- 🤝 I’m looking for help with [Java ,Javascript,ReactJS ,Nodejs](https://github.com/AshwaniKrSonu619)
+
+- 👨‍💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)
+
+- 📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)
+
+- 💬 Ask me about **Data Science ,Java ,Python Programming**
+
+- 📫 How to reach me **sonuashwanikumarsonu@gmail.com**
+
+- ⚡ Fun fact **I am done .**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashwanikrsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanikrsonu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwanikumarsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanikumarsonu" height="30" width="40" /></a>
+<a href="https://fb.com/ashwanikumarsonu.sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwanikumarsonu.sonu" height="30" width="40" /></a>
+<a href="https://instagram.com/iamashwani_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamashwani_sonu" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aks1994870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aks1994870" height="30" width="40" /></a>
+<a href="https://discord.gg/AxU4Eb4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AxU4Eb4b" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanikrsonu619&show_icons=true&locale=en&layout=compact" alt="ashwanikrsonu619" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanikrsonu619&show_icons=true&locale=en" alt="ashwanikrsonu619" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikrsonu619&" alt="ashwanikrsonu619" /></p>
 
