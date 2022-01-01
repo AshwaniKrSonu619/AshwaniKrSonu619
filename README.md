@@ -21,7 +21,10 @@
 
 -***📫 How to reach me sonuashwanikumarsonu@gmail.com***
 
-- ***⚡ Fun fact I am done.***
+-***⚡ Fun fact ⚡ -
+     - I am open for collaborations and projects***
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
