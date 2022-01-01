@@ -11,7 +11,7 @@
 
 - ***👯 I’m looking to collaborate on Data Science ,Python***
 
-- ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs***
+- ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API,Devops***
 
 - ***💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)***
 
