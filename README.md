@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
-- ***🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)**
+- **🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)
 
-- ***🌱 I’m currently learning -**Java ,Core PYTHON (Basic +Advanced)***
+- **🌱 I’m currently learning -Java ,Core PYTHON (Basic +Advanced)
 
-- ***👯 I’m looking to collaborate on Data Science ,Python***
+- **👯 I’m looking to collaborate on Data Science ,Python***
 
-- **🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs***
+- **🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs
 
-- ***👨‍💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)***
+- **💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)
 
-- ***📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)***
+- **📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)
 
-- ***💬 Ask me about ***Data Science , Java , Python Programming***
+- **💬 Ask me about Data Science , Java , Python Programming
 
-- ***📫 How to reach me **sonuashwanikumarsonu@gmail.com***
+-**📫 How to reach me sonuashwanikumarsonu@gmail.com
 
-- ***⚡ Fun fact **I am done .**
+- **⚡ Fun fact I am done .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
