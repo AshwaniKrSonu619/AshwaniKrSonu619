@@ -9,22 +9,22 @@
 
 - ***🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)***
 
-- ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project***
+- ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.***
 
-- ***👯 I’m looking to collaborate on Data Science ,Python***
+- ***👯 I’m looking to collaborate on Data Science ,Python.***
 
-- ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API,Devops***
+- ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API Design.***
 
 - ***💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)***
 
 - ***📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)***
 
-- ***💬 Ask me about Data Science , Java , Python Programming***
+- ***💬 Ask me about Data Science , Java , Python Programming.***
 
  **📫 How to reach me sonuashwanikumarsonu@gmail.com**
 
  **⚡ Fun fact ⚡ 
-     - I am open for collaborations and projects**
+     - I am open for collaborations and projects.**
 
 
 
