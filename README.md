@@ -9,7 +9,7 @@
 
 - ***🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)***
 
-- ***🌱 I’m currently learning -Java ,Core Python (Basic +Advanced)***
+- ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project***
 
 - ***👯 I’m looking to collaborate on Data Science ,Python***
 
