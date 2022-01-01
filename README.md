@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
-- 🔭 I’m currently working on [Data Science](https://github.com/AshwaniKrSonu619)
+- 🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)
 
-- 🌱 I’m currently learning **Java ,Core PYTHON (Basic +Advanced)**
+- 🌱 I’m currently learning -**Java ,Core PYTHON (Basic +Advanced)**
 
-- 👯 I’m looking to collaborate on [Data Science ,Python](https://github.com/AshwaniKrSonu619)
+- 👯 I’m looking to collaborate on -[Data Science ,Python]
 
-- 🤝 I’m looking for help with [Java ,Javascript,ReactJS ,Nodejs](https://github.com/AshwaniKrSonu619)
+- 🤝 I’m looking for help with -[Java ,Javascript,ReactJS ,Nodejs]
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)
 
 - 📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)
 
-- 💬 Ask me about **Data Science ,Java ,Python Programming**
+- 💬 Ask me about ** Data Science , Java , Python Programming**
 
 - 📫 How to reach me **sonuashwanikumarsonu@gmail.com**
 
@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashwanikrsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanikrsonu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwanikumarsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanikumarsonu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashwani-kumar-sonu-2a5288212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanikumarsonu" height="30" width="40" /></a>
 <a href="https://fb.com/ashwanikumarsonu.sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwanikumarsonu.sonu" height="30" width="40" /></a>
 <a href="https://instagram.com/iamashwani_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamashwani_sonu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aks1994870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aks1994870" height="30" width="40" /></a>
