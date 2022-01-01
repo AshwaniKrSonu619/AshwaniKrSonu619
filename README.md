@@ -21,10 +21,10 @@
 
 - ***💬 Ask me about Data Science , Java , Python Programming***
 
- ***📫 How to reach me sonuashwanikumarsonu@gmail.com***
+ **📫 How to reach me sonuashwanikumarsonu@gmail.com**
 
- ***⚡ Fun fact ⚡ 
-     - I am open for collaborations and projects***
+ **⚡ Fun fact ⚡ 
+     - I am open for collaborations and projects**
 
 
 
