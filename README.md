@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Sonu</h1>
-<h3 align="center">Computer Science & Engineering Student || The Avid Learner</h3>
+<h3 align="center">I am an India based student , I am currently pursuing my B.Tech in Computer Science & Engineering, I am passionate about coding , Data Science and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikrsonu619&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikrsonu619" /> </p>
 
