@@ -3,7 +3,7 @@
 
 <h3 align="center"> I am currently pursuing my B.Tech in Computer Science & Engineering, I am passionate about coding , Data Science and web development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikrsonu619&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikrsonu619" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshwaniKrSonu619&label=Profile%20views&color=0e75b6&style=flat" alt="AshwaniKrSonu619" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
