@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)
 
-- 💬 Ask me about ** Data Science , Java , Python Programming**
+- 💬 Ask me about ***Data Science , Java , Python Programming***
 
 - 📫 How to reach me **sonuashwanikumarsonu@gmail.com**
 
