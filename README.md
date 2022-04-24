@@ -48,3 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikrsonu619&" alt="ashwanikrsonu619" /></p>
 
 <!-- ACTIVITY GRAPH TRACKER -->
+[![Ashwani Kumar Sonu's github activity graph](https://activity-graph.herokuapp.com/graph?username=AshwaniKrSonu619)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph)
