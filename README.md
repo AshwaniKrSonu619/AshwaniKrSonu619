@@ -48,4 +48,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikrsonu619&" alt="ashwanikrsonu619" /></p>
 
 <!-- ACTIVITY GRAPH TRACKER -->
-
+<img src="./asset/redical.svg" height=250 alt="graph"/>  
