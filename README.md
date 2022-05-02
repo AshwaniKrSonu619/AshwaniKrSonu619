@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
-- ***🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)***
+- ***🔭 I’m currently working on-[DSA (Java) and FulL stack projects.](https://github.com/AshwaniKrSonu619)***
 
 - ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.***
 
