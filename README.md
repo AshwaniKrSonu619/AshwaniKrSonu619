@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Sonu</h1>
 
 
-<h3 align="center"> I am currently pursuing my B.Tech in Computer Science & Engineering, I am passionate about coding , Data Science and Full Stack  Development.</h3>
+<h3 align="center"> I am passionate about coding , Data Science and Full Stack  Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshwaniKrSonu619&label=Profile%20views&color=0e75b6&style=flat" alt="AshwaniKrSonu619" /> </p>
 
