@@ -6,14 +6,14 @@
 
 **Skills:** Java, Python , Html, Css, Git/Github , MS Excel , SQL , Computer Network  , Computer Organization & Architecture, Operating System, Business Analytics
 
-- 🔭 I’m currently working on Python,SQL ,Advanced Excel and Data & Business Analytics 
-- 🌱 I’m currently learning  I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project. 
-- 👯 I’m looking to collaborate on Data Science ,Python. 
-- 🤔 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API Design. 
-- 💬 Ask me about Data Science , Data Analytics , Python Programming 
-- 📫 How to reach me: sonuashwanikumarsonu@gmail.com 
-- 😄 Pronouns: He/his/him 
-- ⚡ Fun fact:  I am open for collaborations and projects. 
+- 🔭 **I’m currently working on Python,SQL ,Advanced Excel and Data & Business Analytics**
+- 🌱 **I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.**
+- 👯 **I’m looking to collaborate on Data Science ,Python.**
+- 🤔 **I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API Design.**
+- 💬 **Ask me about Data Science , Data Analytics , Python Programming**
+- 📫 **How to reach me: sonuashwanikumarsonu@gmail.com**
+- 😄 **Pronouns: He/his/him**
+- ⚡**Fun fact:  I am open for collaborations and projects.**
 
 
 
