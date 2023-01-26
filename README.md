@@ -1,5 +1,5 @@
 ###  **Hi 👋, I'm Ashwani Kumar Sonu**
-#### I am passionate about coding , Data Science and Full Stack Development.
+#### **I am passionate about coding , Data Science and Full Stack Development.**
 
 
 
