@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshwaniKrSonu619&show_icons=true&locale=en" alt="AshwaniKrSonu619" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikrsonu619&" alt="ashwanikrsonu619" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwaniKrSonu619&" alt="AshwaniKrSonu619" /></p>
 
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Ashwani's github activity graph](https://activity-graph.herokuapp.com/graph?username=AshwaniKrSonu619&theme=react-dark)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph)
