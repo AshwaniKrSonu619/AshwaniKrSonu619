@@ -1,10 +1,10 @@
 ###  **Hi 👋, I'm Ashwani Kumar Sonu**
-#### **I am passionate about coding , Data Science and Full Stack Development.**
+####  ***I am passionate about coding , Data Science and Full Stack Development.***
 
 
 
 
-Skills: Java, Python , Html, Css, Git/Github , MS Excel , SQL , Computer Network  , Computer Organization & Architecture Operating , System Business Analytics
+**Skills:** Java, Python , Html, Css, Git/Github , MS Excel , SQL , Computer Network  , Computer Organization & Architecture, Operating System, Business Analytics
 
 - 🔭 I’m currently working on Python,SQL ,Advanced Excel and Data & Business Analytics 
 - 🌱 I’m currently learning  I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project. 
