@@ -1,10 +1,10 @@
-###  Hi 👋, I'm Ashwani Kumar Sonu
+### Hi there 👋, Hi 👋, I'm Ashwani Kumar Sonu
 #### I am passionate about coding , Data Science and Full Stack Development.
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Java, Python , Html, Css, Git/Github , MS Excel ,SQL , Computer Network  , Computer Organization & Architecture Operating System Business Analytics
+
+Skills: Java, Python , Html, Css, Git/Github , MS Excel ,,SQL , Computer Network  , Computer Organization & Architecture Operating System Business Analytics
 
 - 🔭 I’m currently working on Python,SQL ,Advanced Excel and Data & Business Analytics 
 - 🌱 I’m currently learning  I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project. 
@@ -14,6 +14,7 @@ Skills: Java, Python , Html, Css, Git/Github , MS Excel ,SQL , Computer Network 
 - 📫 How to reach me: sonuashwanikumarsonu@gmail.com 
 - 😄 Pronouns: He/his/him 
 - ⚡ Fun fact:  I am open for collaborations and projects. 
+
 
 
 
@@ -28,7 +29,7 @@ Skills: Java, Python , Html, Css, Git/Github , MS Excel ,SQL , Computer Network 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwaniKrSonu619&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshwaniKrSonu619)  
+[![Ashwani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshwaniKrSonu619&theme=dracula)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph) 
 
 ![GitHub metrics](https://metrics.lecoq.io/AshwaniKrSonu619)  
 
