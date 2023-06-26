@@ -30,7 +30,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwaniKrSonu619&show_icons=true&count_private=true)  
 
-[![Ashwani's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshwaniKrSonu619&theme=dracula)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph) 
+[![Ashwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwaniKrSonu619&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph)
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AshwaniKrSonu619)  
