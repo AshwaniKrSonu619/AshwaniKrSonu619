@@ -34,4 +34,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AshwaniKrSonu619)  
 
-![Profile views](https://gpvc.arturio.dev/AshwaniKrSonu619)  
+![](https://komarev.com/ghpvc/?username=AshwaniKrSonu619&label=PROFILE+VIEWS)
