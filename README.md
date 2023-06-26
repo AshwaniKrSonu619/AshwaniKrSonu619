@@ -1,3 +1,7 @@
+![trust me (1)](https://github.com/AshwaniKrSonu619/AshwaniKrSonu619/assets/94763917/66b0e42e-33f6-4840-a8d7-5524de50fff6)
+
+
+
 ###  **Hi 👋, I'm Ashwani Kumar Sonu**
 ####  ***I am passionate about coding , Data Science and Full Stack Development.***
 
@@ -39,7 +43,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwaniKrSonu619&show_icons=true&count_private=true)  
 
 
-![trust me (1)](https://github.com/AshwaniKrSonu619/AshwaniKrSonu619/assets/94763917/66b0e42e-33f6-4840-a8d7-5524de50fff6)
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwaniKrSonu619&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/AshwaniKrSonu619/github-readme-activity-graph)
